@@ -1,0 +1,12 @@
+.enviar-tarea{
+    &__abrir{
+        position: fixed !important;
+        right: 30px;
+        bottom: 30px;
+        background-color: aqua;
+        z-index: 1;
+    }
+    img{
+        width: 36px;
+    };
+}
