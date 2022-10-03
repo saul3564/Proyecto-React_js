@@ -1,6 +1,6 @@
 import React from "react";
 import { Fab } from "@mui/material";
-import Agregar from "../../assets/img/icono_3.jpeg";
+import Agregar from "../../assets/img/Simbolo_mas.jpeg";
 
 import "./EnviarTarea.scss";
 
