@@ -13,7 +13,7 @@ export default function FormSendTarea(props) {
     const onFormChange = e => {
         setFormValue({
             ...formValue,
-            [e.target.nombre]: e.target.value
+            [e.target.name]: e.target.value
         })
     }
 
