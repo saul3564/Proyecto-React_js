@@ -1,7 +1,7 @@
 import React from "react";
 import { Card, CardContent } from "@mui/material";
 import DeleteIcon from "@mui/icons-material/Delete";
-import moment from "moment/moment";
+import moment from "moment";
 
 import "./Tarea.scss";
 
